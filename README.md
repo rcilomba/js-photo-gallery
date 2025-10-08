@@ -1,6 +1,7 @@
 # JS Photo Gallery
 
-A simple photo gallery where users can browse and view images.
+A modern, lightweight photo gallery for web: browse and view images with smooth horizontal scrolling.  
+Highlights advanced JavaScript, user experience and clean UI.
 
 ## Demo
 🔗 [Live Demo](https://cute-meringue-180ad7.netlify.app/)
@@ -18,7 +19,8 @@ A simple photo gallery where users can browse and view images.
 - Working with event listeners and dynamic elements
 
 ## Next steps
-- [ ] Click to open image  
+- [ ] Modal for enlarged images
 - [ ] Add keyboard navigation (← →)  
 - [ ] Include image descriptions
 - [ ] Responsive layout
+
